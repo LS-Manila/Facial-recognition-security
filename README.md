@@ -1,3 +1,3 @@
 # Facial-recognition-security
 Members:
-Amado, Dan Paulo
+Amado, Dan PauloMirida, Joanna Katherine
